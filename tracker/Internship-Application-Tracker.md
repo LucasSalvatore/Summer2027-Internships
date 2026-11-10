@@ -3,7 +3,7 @@ title: Internship Application Tracker
 type: internship-tracker
 status: active
 created: 2026-09-27
-updated: 2026-11-08
+updated: 2026-11-10
 tags: [recruiting, internships, tracker, class-of-2029]
 related: ["[[Pipeline-Programs-Class-of-2029]]", "[[Consulting-Pipeline-Class-of-2029]]", "[[Rutgers-Transfer-Plan]]"]
 ---
@@ -13,26 +13,32 @@ related: ["[[Pipeline-Programs-Class-of-2029]]", "[[Consulting-Pipeline-Class-of
 > [!abstract] Scope
 > **Paid internships / summer analyst seats only.** Programs, insight days, fellowships, and networking orgs live in [[Pipeline-Programs-Class-of-2029]]. Consulting-lane pipeline programs live in [[Consulting-Pipeline-Class-of-2029]]. Different calendars, different eligibility logic, different prep.
 
-> [!success] Four more New York seats verified eligible — three of them on the firm's own system
-> **Raine Group**, **Rothschild & Co** and **Ducera Partners** all have live 2028 New York Summer Analyst requisitions with clean graduation-band eligibility and **no class-standing clause at all**. All three were read on the firm's own applicant system (Lever, rothschildandco.com, Greenhouse) — not a relay. **None of the three publishes a deadline**, which means they can close without notice and first-mover matters more than it does at Evercore.
+> [!success] A Jefferies Real Estate seat exists — and the "Nov 20 deadline" was never a deadline
+> Harvard's career-services relay of the **same** Jefferies 2028 IB Summer Analyst Program – New York requisition states *"Recruitment began on November 2, 2026"* and *"the job listing **Expires on January 2, 2027**."* Three independent university relays now give three different expiries for one programme — **Nov 20, Dec 6, Jan 2** — which settles the question: **none of them is Jefferies' own deadline.** Nov 20 is not a cliff. (It also corrects last week's "recruitment began November 4.")
 >
-> Separately, **Jefferies** opened its 2028 New York program on **Nov 4** across many groups, with an exact band match and a relay-stated **Nov 20** expiry. Its standing clause needs reading carefully — see the callout below.
+> The same relay enumerates the New York groups, and one of them matters a great deal: **Real Estate, Gaming & Lodging Group.** Full list: Capital Structure Solutions · Financial Institutions Group · Equity Capital Markets · Latin America Coverage · Generalist · Municipals · Israel Coverage · **Real Estate, Gaming & Lodging** · M&A Strategic Advisory (incl. Shareholder Engagement & Activism Advisory and Strategic Finance Group) · Private Fund Advisory. **REGL is the best lane fit on the board after Evercore Strategic Advisory: Real Estate** — and it is the same desk name as the Rutgers Student Managed Fund desk he is targeting.
 
-> [!danger] Dates inside the next 30 days (Nov 8 – Dec 8)
+> [!warning] A posting with no firm-stated deadline is still the most urgent kind
+> Raine, Rothschild, Ducera, LionTree, Cushman r334417, Marcus & Millichap and SEO Career all publish **no deadline at all** — they close without notice. Jefferies now joins them in substance: its relay expiries disagree, so treat it as undated and act early rather than against Nov 20.
+
+> [!danger] Dates inside the next 30 days (Nov 10 – Dec 10)
 > | When | What | How firm |
 > |---|---|---|
-> | **Nov 10, 2026** | Perella Weinberg **TPH Houston** energy req closes. Off-lane, off-geography. Do not let it panic the Jan 5 PWP US Advisory application. | Firm-stated |
-> | **Nov 12, 2026** | ICSC New York refund cutoff — *"Refunds will not be given for cancellations received after November 12, 2026."* Only matters if registering. | Firm-stated |
-> | **Nov 15, 2026** 🔴 | **Evercore 2028 Summer Analyst.** 7 days. *"Applications open September 9, 2026, and close November 15, 2026."* Not rolling. **Max two applications per candidate.** | Firm-stated (mirror); corroborated by two independent trackers |
-> | **Nov 17, 2026** | CFA Institute Research Challenge registration closes. Register at Montclair, compete in January after transferring — live eligibility risk. Decide or let it go deliberately. | Firm-stated |
-> | **Nov 20, 2026** 🔴 | **Jefferies 2028 IB Summer Analyst — New York (Generalist).** 12 days. *"Recruitment began on November 4, 2026"*, *"Expires on November 20, 2026."* | ⚠️ University-board relay expiry, not firm-stated |
+> | **Nov 12, 2026** | ICSC New York refund cutoff — *"Refunds will not be given for cancellations received after November 12, 2026."* Only matters if registering. Newly captured: *"$25 [cancellation fee] for student members."* | Firm-stated |
+> | **Nov 12, 2026** | 🆕 **ALPFA × Protiviti leadership session.** Free, two days out, consulting-adjacent, and ALPFA is the body that awarded the $5,000. Low cost, real relationship value. | Firm-stated (ALPFA mail, Nov 9 & 10) |
+> | **Nov 15, 2026** 🔴 | **Evercore 2028 Summer Analyst — 5 days.** *"Applications open September 9, 2026, and close November 15, 2026."* *"Applications will not be reviewed on a rolling basis."* **Max two applications per candidate.** | Firm-stated (posting mirror); corroborated by two independent trackers |
+> | **Nov 17, 2026** | CFA Institute Research Challenge registration closes. Register at Montclair, compete in January after transferring — live eligibility risk. **Decide or let it go deliberately.** | Firm-stated |
 > | **Nov 30, 2026** | Bain First Forward / BEL / CREW. Standing-gated. Nothing lost. | Firm-stated |
-> | **Dec 1, 2026, 5:00 PM ET** | **Ardea Partners — 2028 NY Summer Internship.** *"collecting applications through December 1st, 2026"*, reviewed *"on a non-rolling basis."* | Firm-stated on Ardea's own ATS |
-> | **Dec 1, 2026** | MLT Career Prep 2029 **"General"** deadline. ⚠️ **Corrected this week** — Dec 1 is the general round, **Jan 15, 2027 is the "Final" backstop**, not the general deadline. Standing-gated either way; logged for accuracy only. | Firm-stated |
-> | **Dec 6, 2026** | **Jefferies — New York, Capital Structure Solutions.** Separate expiry from the Generalist req; Jefferies' group reqs expire on different dates. **Check each group.** | Relay-stated |
-> | **Dec 7, 2026** | ICSC New York standard-rate cutoff (student rate is $50 at every tier regardless). | Firm-stated |
+> | **Dec 1, 2026, 5:00 PM ET** | **Ardea Partners — 2028 NY Summer Internship.** Non-rolling. | Firm-stated on Ardea's own ATS |
+> | **Dec 1, 2026** | MLT Career Prep 2029 "General" round. Standing-gated; logged for accuracy only. | Firm-stated |
+> | **Dec 2, 2026** | 🆕 **Perella Weinberg — Restructuring, New York.** ⚠️ **Unverified** — see the watch list. Separate from TPH Houston and US Advisory. | Tracker-stated, firm ATS unreadable |
+> | **Dec 2, 2026, 2:00 PM ET** | 🆕 **Rutgers Financial Aid Webinar for Admitted Transfer Students.** Already registered as *Joshua Bracero*, attendee ID `a8EUX0000042ITD2A2`. **This is the live venue for the Garden State Guarantee eligibility question and the ALPFA spring-disbursement question.** | Firm-stated (Rutgers confirmation, Nov 10) |
+> | **Dec 3, 2026, 2:00 PM ET** | 🆕 **Rutgers "Next Steps for Admitted Transfer Students" Webinar — With Deans and Advisers.** Registered, attendee ID `a8EUX0000042IRb2AM`. | Firm-stated (Rutgers confirmation, Nov 10) |
+> | **Dec 6, 2026** | Jefferies NY **Capital Structure Solutions** — one relay's expiry. Not a firm deadline. | Relay-stated |
+> | ~~Nov 20, 2026~~ | 🔴 **RETRACTED.** The Jefferies "Nov 20 close" was one university board's listing expiry. Harvard's relay of the same req reads **Jan 2, 2027.** | Corrected Nov 10 |
+> | ~~Dec 7, 2026~~ | 🔴 **DROPPED.** The ICSC "standard-rate cutoff" carried since Oct 25 is not supported by ICSC's own page, which shows **Advance as having ended September 10, 2026** and leaves Standard / On-Site dates blank. Student rate is $50 at every tier, so nothing turns on it. | Corrected Nov 10 |
 >
-> **No deadline published, so treat as closeable without notice:** Raine Group (NY), Rothschild & Co (NY), Ducera Partners (NY), LionTree (NY/SF), Cushman & Wakefield r334417, Marcus & Millichap R-101063, SEO Career.
+> **Passed since Nov 8:** Perella Weinberg TPH Houston (Nov 10) — off-lane, off-geography, nothing lost.
 
 ---
 
@@ -63,8 +69,8 @@ Ordered by urgency. Every entry's eligibility sentence has been read; the quoted
 
 | # | Firm / Role | Field | Deadline | Eligibility as written | Status |
 |---|---|---|---|---|---|
-| 1 | **Evercore — 2028 Summer Analyst** (18 programmes; NY incl. Strategic Advisory **Real Estate**, M&A Generalist, PCMA, Private Funds Group, ECM) | IB / RE advisory | **Nov 15, 2026** | *"Candidates should be pursuing an undergraduate degree with an expected graduation date between December 2028 and June 2029."* No standing requirement. *"We welcome applicants from all majors."* Max **two applications.** | 🔴 **7 DAYS — TOP PRIORITY** |
-| 2 | **Jefferies — 2028 Investment Banking Summer Analyst, New York** (Generalist, Capital Structure Solutions, FIG, Israel Coverage, LP Advisory + more) | IB | **Nov 20, 2026** (Generalist, relay) · **Dec 6** (Capital Structure Solutions, relay) | *"You MUST be graduating from December 2028 to June 2029"* **and** *"be completing the junior year of a four-year Bachelor's degree or equivalent program."* *"we hire Summer Analysts who have studied a variety of disciplines."* **Relative standing — see the callout above.** | 🟢 **NEW — APPLY, 12 days** |
+| 1 | **Evercore — 2028 Summer Analyst** (18 programmes; NY incl. Strategic Advisory **Real Estate**, M&A Generalist, PCMA, Private Funds Group, ECM, 🆕 **Strategic, Defense & Shareholder Advisory**, 🆕 **Global Technology**) | IB / RE advisory | **Nov 15, 2026** | Re-read verbatim on a posting mirror Nov 10: *"Pursuing an undergraduate degree with a graduation date between December 2028 and June 2029"* · *"Applications open September 9, 2026, and close November 15, 2026"* · *"Applications will not be reviewed on a rolling basis."* 🆕 *"Finance or Accounting major (preferred)"* and *"demonstrated excellence in academic coursework"* — **no GPA floor and no standing clause.** Max **two applications.** | 🔴 **5 DAYS — TOP PRIORITY** |
+| 2 | **Jefferies — 2028 Investment Banking Summer Analyst, New York.** Groups, per Harvard's relay: Capital Structure Solutions · FIG · ECM · Latin America Coverage · Generalist · Municipals · Israel Coverage · 🆕 **Real Estate, Gaming & Lodging** · M&A Strategic Advisory (incl. Shareholder Engagement & Activism Advisory, Strategic Finance Group) · Private Fund Advisory | IB / RE | **No firm-stated deadline.** Relay expiries disagree: Nov 20 · Dec 6 · **Jan 2, 2027** (Harvard). *"Recruitment began on November 2, 2026."* | *"You MUST be graduating from December 2028 to June 2029"* **and** *"be completing the junior year of a four-year Bachelor's degree or equivalent program."* **Relative standing — see the callout above.** | 🟢 **APPLY — lead with Real Estate, Gaming & Lodging.** Nov 20 retracted as a deadline |
 | 3 | **Raine Group — 2028 Summer Analyst, New York** | IB / merchant bank (media, entertainment, sports, tech) | **None stated** | *"Expected Graduation date: Winter (December 2028) - Spring (May/June 2029)"* — final bullet under *"Ideal candidates will possess the following qualifications."* **No class year, no standing language, no GPA minimum anywhere on the page.** | 🟢 **NEW — CLEANEST BAND MATCH ON THE BOARD** |
 | 4 | **Rothschild & Co — US 2028 Global Advisory Summer Analyst** (New York generalist · Santa Monica tech · Houston energy) | IB (M&A, debt advisory, restructuring) | **None stated** — *"Applications are reviewed on a rolling basis."* | Basic Qualifications: *"Current enrollment in an undergraduate degree program with an anticipated graduation date no later than May 2029"* · *"Demonstrated academic excellence"* · *"MS Word, Excel and PowerPoint skills."* No class year. ⚠️ **Ceiling is May 2029, not June** — fine for a Spring 2029 conferral. | 🟢 **NEW — ELIGIBLE, apply early (rolling)** |
 | 5 | **Ducera Partners — 2028 Investment Banking Summer Analyst, New York** | Restructuring / advisory boutique | **None stated** | *"Currently pursuing a Bachelor's Degree with an anticipated graduation date between December 2028 and June 2029"* · *"highly motivated, team-oriented, intelligent and have excellent academic, leadership and extracurricular records."* No GPA floor, no standing clause. Requires a PDF resume and a **Suited profile** after submitting. | 🟢 **NEW — ELIGIBLE. Corrects last week's "off-lane, band unread."** |
@@ -85,7 +91,7 @@ Ordered by urgency. Every entry's eligibility sentence has been read; the quoted
 ### Application queue, in order
 
 - [ ] 🔴 **Evercore — NY, Real Estate first, then PCMA or M&A Generalist. By Nov 15. Two applications maximum.**
-- [ ] 🔴 **Jefferies — NY Generalist by Nov 20; Capital Structure Solutions by Dec 6. Read each group's own expiry.**
+- [ ] 🔴 **Jefferies — NY. Lead with Real Estate, Gaming & Lodging; Generalist second. No firm deadline (relays say Nov 20 / Dec 6 / Jan 2), so act early, not frantically.**
 - [ ] 🟢 **Raine Group — NY. No deadline, so this week.**
 - [ ] 🟢 **Rothschild & Co — NY generalist. Rolling, so this week.**
 - [ ] 🟢 **Ducera Partners — NY. No deadline; budget time for the Suited profile.**
@@ -100,10 +106,12 @@ Ordered by urgency. Every entry's eligibility sentence has been read; the quoted
 - [ ] Marcus & Millichap R-101063 + email internship@marcusmillichap.com (confirm cycle year)
 - [ ] SEO Career — transfer students must submit an updated GPA from the current school
 
-> [!warning] Jefferies: the one place a judgment call is required this week
+> [!warning] Jefferies: the judgment call stands, the urgency does not
 > Jefferies' New York 2028 reqs pair *"You MUST be graduating from December 2028 to June 2029"* — his band, exactly — with *"be completing the junior year of a four-year Bachelor's degree or equivalent program."*
 >
-> **The recommendation is to apply.** Three reasons. First, the two clauses are consistent: a Spring 2029 graduate completes their junior year in AY 2027–28, which is the year ending immediately before the Summer 2028 internship. Second, Jefferies' own prior-cycle equivalent reads *"completing the **sophomore** year"* against a band of *"December 2027-June 2028"* — the same one-step-back construction, which shows "junior year" here is cohort shorthand anchored to the band, not an independent filter. Third, this file already applied exactly this reasoning to UBS Tomorrow's Talent and treated him as eligible.
+> **The recommendation remains apply.** The two clauses are consistent: a Spring 2029 graduate completes their junior year in AY 2027–28, the year ending immediately before the Summer 2028 internship. Jefferies' own prior-cycle equivalent reads *"completing the **sophomore** year"* against a band of *"December 2027-June 2028"* — the same one-step-back construction, which shows "junior year" here is cohort shorthand anchored to the band, not an independent filter. This file already applied that reasoning to UBS Tomorrow's Talent.
+>
+> 🆕 **What changed on Nov 10 is the clock, not the call.** Harvard's relay of the same requisition reads *"Recruitment began on November 2, 2026"* and *"Expires on January 2, 2027."* Against the Nov 20 and Dec 6 expiries from two other boards, that makes **Nov 20 a board artifact, not a Jefferies deadline.** The practical consequence: Evercore's Nov 15 is the only hard cliff in the window, and the Jefferies application should be written well rather than fast — **leading with Real Estate, Gaming & Lodging.**
 >
 > **What he asserts stays truthful either way**: enrolled standing is credit junior, Class of 2029, expected graduation Spring 2029. That is what enrollment verification checks and it is what he reports. He never describes himself as a sophomore, and this is not that question.
 
@@ -117,7 +125,9 @@ Ordered by urgency. Every entry's eligibility sentence has been read; the quoted
 | **Related — 2027 Summer Analyst, RCMC Asset Management**, New York, $25–30/hr | Strongest Related lane fit by title (asset management on a developer's own portfolio). | The eligibility sentence, **second week running.** Related's own ATS (`related.jibeapply.com`) could not be reached, and the AdventuresinCRE relay that indexes it returns site errors. Only the Glassdoor digest tile is readable. **Do not assume it matches the Data Centers band** — Related posts the same title under different bands. |
 | **Related — Summer Analyst, Finance (Related Digital)**, New York | The Nov 6 relay expiry has now passed. | **Whether the req is still live cannot be established either way.** No posting by that title is findable on Related's ATS or any aggregator. The Data Centers req (item 12) is live and may be the same requisition retitled — that is inference, not verification. **Apply to Data Centers and treat Related Digital as lapsed unless it resurfaces.** |
 | **Cushman & Wakefield — EIC 2027 New York** | The NY-metro EIC req. | Its existence is attested by one CRE job board whose page returns a client error. Every readable EIC 2027 sibling carries the disqualifying band, so expect the same — but the NY req itself has not been read. |
-| **CBRE Investment Management — Summer 2027** | Best-fit REPE platform seat | **Week 6 with no change.** Verbatim still *"Our summer 2027 internship program posting will open in the fall of 2026"*, alongside *"The 2026 summer internship program has closed and is no longer accepting applications."* No 2027 posting exists on CBRE's board or any aggregator. Fall 2026 has about seven weeks left. |
+| 🆕 **Perella Weinberg — Restructuring, New York, 2028** | A New York restructuring seat at a firm already on the apply list, with a **Dec 2, 2026** deadline — separate from TPH Houston (closed Nov 10) and US Advisory (Jan 5). | **Everything.** One tracker that checks firm sites lists it; PWP's own ATS (`pwpcareers.tal.net`) sits behind the same human-verification wall as Evercore's, and no university relay carries the req text. **Band, standing and the Dec 2 date are all unverified. Check it on the portal while applying to US Advisory.** |
+| 🆕 **Alvarez & Marsal · Riverside Company · MTS Health Partners · Citadel · Stout** | Five firms reported **posted** for Summer 2028 that appear in neither tracker. A&M is the interesting one: restructuring/turnaround, which sits in both the restructuring lane and the newly-primary consulting lane. | **All eligibility text.** Source is a Class-of-2029 report dated Nov 1, 2026 (17 of ~180 firms posted). A&M's own postings are not readable — MIT's A&M board returns *"No result found."* ⚠️ The same report lists **Jefferies, Ducera and LionTree as "projected December/January"** when all three are verified live on firm systems, so **treat it as a discovery list, never a status source.** |
+| **CBRE Investment Management — Summer 2027** | Best-fit REPE platform seat | **Week 7 with no change.** Verbatim still *"Our summer 2027 internship program posting will open in the fall of 2026"*, alongside *"The 2026 summer internship program has closed and is no longer accepting applications."* Newly captured: *"We accept applications from students from all universities!"* No 2027 posting exists on CBRE's board or any aggregator. **Fall 2026 has about six weeks left.** |
 | **Piper Sandler · Wells Fargo (Houston) · Leerink · Truist · Ensis · PMCF · BDO · Baird · Capstone Partners** | Open or opening Summer 2028 middle-market seats | Bands unpublished on every reachable page. Mostly Houston/Midwest and off-lane. Capstone opens Dec 1, 2026 and closes Jan 31, 2027. |
 
 ---
@@ -146,18 +156,30 @@ Verified not eligible, not posted, or no longer live. Logged so the weekly scan 
 | **Standing-gated programmes** — MLT Career Prep 2029 · Morgan Stanley Early Insights · Bain First Forward / BEL / CREW · JPMorgan Fellowship · Goldman Possibilities | Require **sophomore** standing *as of application*. He is a credit junior. Offers run enrollment verification — never apply, never self-describe as a sophomore. Bain remains the painful one: he meets the first-gen and graduation criteria and fails only on standing. |
 | **BCG Growing Future Leaders · BCG Bridge to Consulting · McKinsey Sophomore Summer Business Analyst · Deloitte Discovery Intern (Consulting)** | 🆕 **Reportedly CANCELED outright** — recorded in [[Consulting-Pipeline-Class-of-2029]] on Nov 3 and corroborated this week by a consulting deadline tracker, which marks the two BCG and McKinsey Class-of-2029 sophomore programmes *"Canceled."* Tracker-sourced, not firm-confirmed. **Folded into this file as instructed by the Nov 3 note** — they are no longer "live sophomore gates," they are gone. Nothing is handed to him by this, but the gap between him and a same-age sophomore is narrower than the old file implied. |
 
-> [!info] Nothing eligible passed between Nov 1 and Nov 8
-> Four dates fell in that window. **ARGUS Winter 2027's general application (Nov 6)** closed — the Nov 1 recommendation was to let it, so that is on plan, not a miss. **Related Digital's relay expiry (Nov 6)** passed; it was never a firm-stated date and the req is now unverifiable either way. **Greenhill's reported Nov 6 close** appears not to have been real. **The RBS information session (Nov 7)** was attended-or-not; nothing recruiting-side turned on it. **No eligible internship deadline was missed.**
+> [!info] Nothing eligible passed between Nov 8 and Nov 10
+> **Perella Weinberg TPH Houston (Nov 10)** closed — off-lane energy, off-geography, and the file's standing advice was to let it go. Nothing else dated fell in the window. **No eligible internship deadline was missed.**
+>
+> ✅ **And one item is confirmed done:** he attended the **Nov 7 RBS information session.** Christine Yannuzzi, Nov 9: *"Thank you for taking the time to visit Rutgers Business School-New Brunswick… I hope you will take a moment to answer a brief survey regarding **Saturday's** information session."* ⚠️ That mail is a template post-visit blast (addressed *"Future Scarlet Knight,"* sent to her own address) and **contains no answer to the calculus question** — so do not read it as closing that item. Her signature now carries a **direct Bookings link**, which is a better channel than email for it.
 
 ---
 
 ## Newsletter feeds — what's worth mining
 
-> [!danger] The Recruiting/Newsletters label has stopped being applied
-> Every job digest received since Nov 1 — four Career Brew issues, nine Glassdoor alerts, StreetSmart, the beehiiv funnel, FirstGenU — is sitting **unread in the inbox** under Gmail's own `CATEGORY_UPDATES`, with **no user label attached**. A query on `label:"Recruiting/Newsletters"` returns zero threads for the period. The labels created on Oct 21 still exist; **the filter that was supposed to apply them is not firing on new mail.** Either it was created as a one-time bulk action rather than a standing filter, or its conditions don't match these senders. Twenty minutes in Gmail settings fixes it; until then the inbox is absorbing the whole feed.
+> [!danger] The Recruiting/Newsletters label has stopped being applied — third week
+> Every job digest received since Nov 8 — three Career Brew issues, two Glassdoor alerts, NSCS, ALPFA, extern, the beehiiv funnel, Backstage — is sitting in the **inbox** under Gmail's own `CATEGORY_UPDATES` with **no user label attached.** The labels created Oct 21 still exist; the filter meant to apply them is not firing on new mail. Twenty minutes in Gmail settings fixes it; until then the inbox absorbs the whole feed and nothing is triaged.
 
-> [!warning] First week in five that the Glassdoor feed produced nothing
-> Nine Glassdoor emails since Nov 1. The New York `Account Manager Associate` mis-tune appears to have stopped — **both surviving alerts are now New Brunswick, NJ**, which is the improvement flagged last week. But the content degraded: the digests are dominated by **"AI Trainer" gig listings** (AfterQuery: *FP&A Analyst - AI Trainer*, *Equity Research Analyst - AI Trainer*, *Corporate Finance Analyst - AI Trainer*) plus full-time FP&A and senior financial analyst roles at Burlington, GAF, AmTrust, Bakerly. **Zero internships. Zero postings in band.** The "financial analyst" keyword is pulling experienced-hire and data-labeling work, not early-career seats. The feed found four real Related reqs in prior weeks; it found nothing this week.
+> [!warning] Glassdoor: 0 internships from 2 alerts, second dry week
+> **Nov 8:** *Entry-level Private Jet Charter Sales Consultant (NYC)* at Air Charter Service. **Nov 10:** *Part Time (30 Hours) Associate Banker, South St Branch, Morristown, NJ* at JPMorganChase. Both are real linkable postings and neither is an internship or in band. The Morristown geography is right — it is two towns from Powder Mill Heights — but the keyword is still pulling retail and sales roles. **Retune to "intern" / "summer analyst" / "summer intern."**
+
+> [!success] One dated item worth two hours: ALPFA × Protiviti, Nov 12
+> ALPFA mailed twice (Nov 9, Nov 10): *"Join us on Nov. 12 for an interactive leadership session with Protiviti"* · *"Discover practical strategies you can use in internships, group projects, and beyond."* Free, two days out, and **Protiviti is a consulting firm** — which puts it in the newly-primary lane. ALPFA is also the body that awarded the $5,000 and the organisation whose spring-disbursement question is still unanswered. **Attending costs an hour and is the cheapest live consulting-lane contact on the calendar.**
+
+> [!info] Also in the feed, Nov 8–10
+> **NSCS (Nov 9):** ScholarCAST info session on the **Gilman Scholarship** — study-abroad funding, off-lane, but it confirms the pattern flagged last week: NSCS sends real dated scholarship opportunities and they are not being monitored.
+> **Indeed (Nov 10):** *Leasing Agent – **Part Time**, Durham Woods Associates, $25/hr.* Off-pipeline, but **part-time is exactly the shape the Spring 2027 analysis called for** — a weekend-heavy full-time leasing role collides with the gateway semester *and* permanently closes the ICSC and CREFC student memberships. Worth a look on the income thread, not this one.
+> **Jason's beehiiv (Nov 7):** *"Sharing an Application Sheet of Finance Roles (100+ New Openings)."* Tier 3. The claim is an application sheet behind a funnel, not a posted role. **Standing rule holds: ignore.**
+> **SCALIS: week 5, still not routed to Gmail.** The `lukesdesk@outlook.com` redirect remains unset. Still the highest-volume real source not plugged in.
+> **Career Brew ×3 (Nov 8, 9, 10):** *"91 / 73 / 78 Hottest Early to Mid Career Jobs."* Headline comp $122K–$208K — experienced-hire bands throughout.
 
 | Feed | Verdict | Why |
 |---|---|---|
@@ -177,18 +199,21 @@ Verified not eligible, not posted, or no longer live. Logged so the weekly scan 
 
 Band: graduating **Dec 2028 – June 2029**.
 
-> [!note] Published vs. projected — re-verified Nov 8, 2026
-> **Still no bulge-bracket bank and no MBB firm has published a Summer 2028 date.** That holds for a third consecutive week against four independent sources. Every circulating bulge-bracket date (Barclays/Deutsche early Dec, Citi mid-Dec, JPM late Dec, GS/MS/UBS early Jan, BofA mid-Jan) is a **projection built from last cycle's opening dates**, and the trackers publishing them say so in their own words: *"Dates are estimates based on when each firm opened the equivalent program last cycle, not announcements."*
+> [!note] Published vs. projected — re-verified Nov 10, 2026, against two freshly-dated sources
+> **Fourth consecutive week with no bulge-bracket and no MBB Summer 2028 date published.** The strongest version of this finding yet, because both sources carry recent stamps:
 >
-> **What changed: the full-service and middle-market tier started moving.** Jefferies opened New York on **Nov 4** across many groups, and Ducera's New York req is live on its own Greenhouse. Both are firms whose "expected" dates were December 2026 or later.
+> - A finance recruiting timeline page **last modified November 9, 2026** names **no firm as open** and states in its own words: *"Dates are estimates based on when each firm opened the equivalent program last cycle, not announcements."* Its bulge-bracket projections: Barclays and Deutsche early Dec 2026 · Citi mid-Dec · J.P. Morgan late Dec · Goldman, Morgan Stanley and UBS early Jan 2027 · Bank of America mid-Jan.
+> - 🆕 A **Class-of-2029-specific** report dated **November 1, 2026** — *"this report exclusively covers junior summer internships (Summer 2028) for the Class of 2029"* — counts **17 of ~180 firms posted** and lists Goldman, JPM, Morgan Stanley, Citi, BofA, Barclays, Deutsche and UBS all as projected Dec 2026 – Jan 2027.
 >
-> ⚠️ **Source downgrade — Aced.** The project instructions mark Aced as reliable. Its page is stamped *"Last verified October 10, 2026"* and states *"Jefferies: No US 2028 listing is up"* and *"Houlihan Lokey: No 2028 US window yet"* — both now false. It is a month stale. **Management Consulted remains the better consulting source; for banking, read the firm's own ATS.**
+> **The useful half of the new source is discovery, not status.** Firms it reports posted that appear nowhere in these trackers: **Alvarez & Marsal · Riverside Company · MTS Health Partners · Citadel · Stout.** ⚠️ But it lists **Jefferies, Ducera and LionTree as still-projected** when all three are verified live on firm systems — so it finds firms worth checking and is wrong about whether they are open. **Read the firm's own ATS for status, every time.**
+>
+> ⚠️ **Source downgrade stands — Aced.** Stamped *"Last verified October 10, 2026"* while asserting *"Jefferies: No US 2028 listing is up"* and *"Houlihan Lokey: No 2028 US window yet"* — both false. A month-stale page that presents itself as verified is more dangerous than one that admits it projects.
 
 ### Open now — eligibility READ and clean
 | Firm | Role | Deadline | Band as written |
 |---|---|---|---|
-| **Evercore** | 2028 SA, 18 programmes | **Nov 15, 2026**, not rolling, 2 apps max | ✅ *"expected graduation date between December 2028 and June 2029"* |
-| **Jefferies** | 2028 IB SA, New York, many groups | **Nov 20** / **Dec 6** by group (relay) | ✅ *"graduating from December 2028 to June 2029"* + relative junior-year clause |
+| **Evercore** | 2028 SA, 18 programmes | **Nov 15, 2026**, not rolling, 2 apps max | ✅ *"a graduation date between December 2028 and June 2029"* |
+| **Jefferies** | 2028 IB SA, New York, 10 groups incl. **Real Estate, Gaming & Lodging** | **No firm deadline.** Relays: Nov 20 · Dec 6 · Jan 2, 2027 | ✅ *"graduating from December 2028 to June 2029"* + relative junior-year clause |
 | **Raine Group** | 2028 SA, New York | none stated | ✅ *"Expected Graduation date: Winter (December 2028) - Spring (May/June 2029)"* |
 | **Rothschild & Co** | US 2028 Global Advisory SA — NY / Santa Monica / Houston | none stated, rolling | ✅ *"anticipated graduation date no later than May 2029"* |
 | **Ducera Partners** | 2028 IB SA, New York | none stated | ✅ *"anticipated graduation date between December 2028 and June 2029"* |
@@ -307,20 +332,26 @@ Band: graduating **Dec 2028 – June 2029**.
 
 ---
 
-## Could not verify — Nov 8
+## Could not verify — Nov 10
 
-- **Evercore's own job board** — `evercore.tal.net` remains behind an applicant-system human-verification wall; not circumvented. The **Nov 15 close and the Dec 2028–Jun 2029 band are quoted verbatim** on a university-facing mirror (*"Applications open September 9, 2026, and close November 15, 2026"*), and two independent trackers show the programme open and not rolling. ⚠️ One projection article dated **Sep 2** still says *"Evercore has not posted the 2028 requisitions yet"* — that is a stale pre-opening article, not evidence of closure. **Treated as open. Confirm on the portal when applying.**
-- **Jefferies' firm-stated deadline** — `jefferies.com/careers` carries no direct posting link that could be read. The Nov 20 and Dec 6 dates are **university career-board relay expiries**, group by group. The eligibility text was identical across two independent relays.
-- **Related's ATS (`related.jibeapply.com`)** — unreachable for a second week. This blocks both the RCMC band and any confirmation of whether Related Digital is still live.
-- **Cushman & Wakefield EIC 2027 New York** — the one CRE job board that indexes it returns a client error.
-- **Cushman & Wakefield r334417 locations** — the req says only *"across a range of teams and locations."* NY-metro placement is not confirmed.
+- **Evercore's own job board** — `evercore.tal.net` still behind an applicant-system human-verification wall. The band, the Sept 9 – Nov 15 window and *"Applications will not be reviewed on a rolling basis"* were re-read verbatim on a posting mirror Nov 10, and two independent trackers show it open. **Treated as open. Confirm on the portal when applying.**
+- **Jefferies' firm-stated deadline — now known to be unknowable from relays.** Three university boards give three expiries for one requisition: Nov 20, Dec 6, **Jan 2, 2027**. `jefferies.com/careers` carries no readable direct posting. The eligibility text and the Nov 2 recruitment-start date were identical across relays.
+- 🆕 **Perella Weinberg Restructuring, New York (Dec 2, 2026)** — `pwpcareers.tal.net` is behind the same human-verification wall as Evercore's, and no relay carries the req. **Existence, band, standing and date all unverified.**
+- 🆕 **Alvarez & Marsal, Riverside, MTS Health Partners, Citadel, Stout 2028 postings** — reported posted by a Class-of-2029 report dated Nov 1; no eligibility text readable for any of the five. MIT's A&M board returns *"No result found."*
+- **Related's ATS (`related.jibeapply.com`)** — unreachable for a third week. Blocks the RCMC band and any confirmation of whether Related Digital is live.
+- **Cushman & Wakefield EIC 2027 New York** — the one CRE job board indexing it returns a client error.
+- **Cushman & Wakefield r334417 locations** — *"across a range of teams and locations."* NY-metro placement unconfirmed.
 - **PJT Partners req R0003592 text** — Workday renders client-side; metadata only.
 - **Houlihan Lokey's Dec 18 deadline** — req R3678 publishes no deadline or posting date. Tracker-stated.
-- **Lazard's deadline year** — the posting prints *"January 15"* with no year. 2027 is the only coherent reading for a 2028 summer, but it is inference.
-- **Marcus & Millichap cycle year** and the NJ/Saddle Brook req — reqs are evergreen; findable siblings are labelled Summer 2025 and 2026.
+- **Lazard's deadline year** — the posting prints *"January 15"* with no year. 2027 is the only coherent reading; still inference.
+- **ICSC New York Standard / On-Site tier dates** — ICSC's own page now shows **Advance as *"(ends September 10, 2026)"*** — already closed — and leaves Standard and On-Site end/start dates **blank**, fourth week. **The Dec 7 / Dec 8 dates this file carried since Oct 25 are not supported and have been dropped.** Registration still reads *"Opening Soon."* Practical effect: none — the student rate is **$50 at Advance, Standard and On-Site alike**, against $875–$2,500.
+- **Project Destined Spring 2027 — week 7, still unverified.** The newest readable Project Destined posting anywhere is **Summer 2026** (Handshake share preview); `projectdestined.com` remains a client-rendered app serving no body text. No Spring 2027 relay on any university board. **Needs a human with a browser — and it still clears the ARGUS modeling prerequisite for free.**
+- **McKinsey Forward** — `mckinsey.org` unreachable three weeks running.
+- **Marcus & Millichap cycle year** and the NJ/Saddle Brook req — reqs are evergreen.
 - **Coinbase's 12 other NY finance/business internships** — titles captured, bands not individually checked.
-- **Project Destined Spring 2027** — `projectdestined.com` is a client-rendered app and serves no body text to a fetcher; the root was additionally unreachable. No Spring 2027 relay surfaces on any university board. **Genuinely unverified this week — needs a human with a browser.**
-- **McKinsey Forward** — `mckinsey.org` was unreachable both weeks. What is verifiable: a **Fall 2026 cohort was open and closed Oct 5, 2026** (*"Apply by Oct. 5"*). Last week's "interest form only" should be treated as **unverified**, not re-confirmed. Note also the eligibility frame is career-starter/professional, not undergraduate.
-- **ALPFA Deloitte scholarship portability to Rutgers** — follow-up sent to `bengarcia@national.alpfa.org`, cc Maria Fernandez and two others. **Still no reply, now three weeks out.** Enrollment at Rutgers is confirmed, so the spring-disbursement question is live, not hypothetical.
-- **Whether the ICSC $50 student membership and free CREFC academic membership were actually purchased** — last week's first action. **No receipt or confirmation from either organization appears in Gmail.** Treated as not done.
-- **Whether the Evercore application has been submitted** — no confirmation email from Evercore appears in Gmail. **7 days left.**
+- **ALPFA Deloitte scholarship portability to Rutgers** — follow-up to `bengarcia@national.alpfa.org`, cc Maria Fernandez. **Still no reply, four weeks out.** ✅ One thing did move: Rutgers **Student Choice Refund** was set to direct deposit on **Nov 10**, which is the rail a last-dollar refund would travel. The Dec 2 financial-aid webinar is the live venue for the question.
+- **Whether the ICSC $50 and free CREFC memberships were purchased** — **no confirmation from either organization in Gmail. Sixth week.**
+- **Whether the Evercore application has been submitted** — **no confirmation email from Evercore in Gmail. 5 days left.**
+- **HNIP Summer 2027 status flip** — the Nov 6 mail promised SUBMITTED → ELIGIBLE in *"3-4 business days."* **No status email has arrived.** Due now; chase if nothing by Nov 13.
+- **The calculus question** — he attended the Nov 7 session, but Yannuzzi's Nov 9 note is a template blast and answers nothing. **Still open.** Use the Bookings link in her signature.
+- **HACU Student Affiliate membership rate** — inquiry sent Nov 6, no reply.
