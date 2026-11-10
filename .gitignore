@@ -164,3 +164,5 @@ cython_debug/
 
 # tests
 test_edit_behavior.py
+# Weekly scan staging dir (report is written to the Claude project, not the vault)
+.scan-out/
