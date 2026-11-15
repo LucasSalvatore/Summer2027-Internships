@@ -3,7 +3,7 @@ title: Pipeline Programs — Class of 2029
 type: program-entry
 status: active
 created: 2026-09-27
-updated: 2026-11-10
+updated: 2026-11-15
 tags: [recruiting, pipeline, programs, workshops, networking, class-of-2029]
 related: ["[[Internship-Application-Tracker]]", "[[Consulting-Pipeline-Class-of-2029]]", "[[Rutgers-Transfer-Plan]]", "[[Scholarships]]"]
 ---
@@ -20,18 +20,20 @@ related: ["[[Internship-Application-Tracker]]", "[[Consulting-Pipeline-Class-of-
 >
 > ⚠️ **No Winter 2028 or later ARGUS cycle is published anywhere on icsc.com**, and the ICSC student-resources ARGUS page is stale (it still reads *"Registration for ARGUS Certification for Students - Summer 2025 is now open."*). Expect the Winter 2028 window to open ~September 2027 if the cycle repeats. **The grant is the thing to catch next time: ~Oct 5, 2027 if the pattern holds.**
 
-> [!danger] The $50 ICSC membership is now in its sixth week unbought
-> **No ICSC or CREFC confirmation appears in Gmail.** Carried forward unchanged, because every reason still holds and one of them is a door that closes permanently:
+> [!danger] The $50 ICSC membership is in its seventh week unbought — and the refund window has now closed
+> **No ICSC or CREFC confirmation appears in Gmail.** Every reason still holds and one of them is a door that closes permanently:
 >
 > - It makes **ICSC New York $50 instead of $875–$2,500** on Dec 9–10 at the Javits Center — and the rate is **$50 at Advance, Standard and On-Site alike**, so there is no price penalty for buying late, only the risk of not buying at all
 > - It is the **prerequisite for the Winter 2028 ARGUS cycle *and* its grant** — *"Participants must be ICSC Student Members at the time of registration"*
 > - **A full-time leasing job disqualifies him permanently**: *"An individual who is employed full-time is not eligible for a student membership."* Memberships run to graduation once held.
 >
-> 🆕 Newly captured from ICSC's own rates page, Nov 10: *"All cancellations are subject to a $100 cancellation fee for members and non-members; **$25 for student members**."* So even the downside of registering and not attending is $25, not $50.
+> ⚠️ **What changed on Nov 15: the refund cutoff has passed.** ICSC's own page states *"Refunds will not be given for cancellations received after November 12, 2026"* alongside *"$25 [cancellation fee] for student members."* Registering for the conference is now **non-refundable** — but the exposure is the $50 ticket, not the $875 member rate, so the arithmetic barely moves. **The membership itself has no refund question at all and is the part that gates ARGUS.**
+>
+> 🆕 Also newly readable: **badge pickup and registration open Tuesday, December 8**, the day before the event.
 >
 > Grab the **free CREFC academic membership** in the same sitting — same full-time-employment restriction, zero cost.
 >
-> ⚠️ **One number has been dropped from this file.** ICSC's page now renders the **Advance tier as *"(ends September 10, 2026)"*** — already closed — and still leaves the Standard and On-Site dates **blank**, fourth week running. **The "Dec 7 standard cutoff / Dec 8 on-site start" carried here since Oct 25 is not supported by the page and has been removed.** Nothing turns on it: the student rate does not change by tier.
+> ⚠️ **Registration still reads "Opening Soon" — fifth week**, with no Register button. Re-verified Nov 15: *"December 9-10, 2026"*, *"Jacob K. Javits Convention Center, 655 West 34th Street"*, Advance *"(ends September 10, 2026)"* and Standard / On-Site end-and-start dates still **blank.** The Dec 7 / Dec 8 tier dates dropped on Nov 10 stay dropped.
 
 ---
 
@@ -67,7 +69,7 @@ related: ["[[Internship-Application-Tracker]]", "[[Consulting-Pipeline-Class-of-
 | **Connect with McKinsey (RY28)** | $0 | **Open now → Aug 31, 2027** | *"Campus candidates across North America (undergraduates and non-MBA master's candidates)"* · *"graduating between December 2027 - August 2030."* Carries **early access to the Solve assessment** — minutes to register, material advantage. |
 | **BCG Launch** | $0 | **Register by Mar 29, 2027** | *"Undergraduate and non-MBA master's students from all fields and backgrounds"* — no class-year restriction. |
 | **SEO Career** | $0 | Rolling | *"First Year, Sophomore, or Junior"* · *"3.2 GPA required"* · **no graduation-year requirement.** Transfer students must submit an updated GPA from their current school. |
-| **Project Destined — Spring 2027** | $0, **pays $350** | ⚠️ **Unverified — week 7** | *"Students of all majors and class years are eligible to apply"* (prior-cohort language) — not standing-gated. 🆕 **Nov 10: the newest readable Project Destined posting anywhere is *"Summer 2026 Real Estate Private Equity Virtual Internship Program."*** No Spring 2027 cohort exists on Handshake, any university board, or projectdestined.com (still a client-rendered app serving no body text). **Either the Spring 2027 cohort is not announced yet or it is not happening. Needs a human with a browser.** Still worth the five minutes: completing it clears the ARGUS modeling prerequisite for free. |
+| **Project Destined — Spring 2027** | $0, **pays $350** | ⚠️ **Unannounced — week 8, diagnosis corrected** | *"Students of all majors and class years are eligible to apply"* (prior-cohort language) — not standing-gated. 🔴 **Correction to the Nov 10 entry, which claimed the newest readable posting anywhere was "Summer 2026."** A **Fall 2026 Real Estate Private Equity Virtual Internship Program** posting is readable on a university board and reads *"Closes on Monday, November 9, 2026"* / *"This job posting has closed."* **So the programme is running cohorts on schedule, and the Spring 2027 cohort is simply unannounced rather than cancelled** — the right conclusion, reached on wrong evidence. ⚠️ It also means **a free cohort that would have cleared the ARGUS modeling prerequisite closed on Nov 9, one day before a scan that reported it did not exist.** If the pattern holds (a Fall cohort closing in early November), a Spring cohort should surface in December or January. **Watch from mid-December.** |
 | **McKinsey Forward** | $0 | ⚠️ **Unverified this week** | `mckinsey.org` was unreachable for a second week. What *is* verifiable: a **Fall 2026 cohort was open and closed Oct 5, 2026** (*"Apply by Oct. 5"*). Treat "interest form only" as unverified, not re-confirmed. Note the eligibility frame is career-starter/professional, not undergraduate — worth checking fit before investing in it. |
 
 ---
@@ -114,7 +116,7 @@ related: ["[[Internship-Application-Tracker]]", "[[Consulting-Pipeline-Class-of-
 
 | Competition | Register by | Eligibility |
 |---|---|---|
-| **CFA Institute Research Challenge** | 🔴 **Registration closes Nov 17, 2026 — 7 days** | Teams of 3–5 + faculty advisor + industry mentor. **Timing conflict:** register at Montclair, compete Jan–Feb after transferring out — a live eligibility risk. Coordinator Jenisha Patil, 646-871-3432. The 2027–28 cycle at Rutgers is the clean shot. **Decide deliberately this week, or let it go.** |
+| ~~**CFA Institute Research Challenge**~~ | ❌ **SETTLED NO — do not register by Nov 17** | 🆕 CFA Society New York's own page: eligibility requires being *"a full-time student at a participating university"*, and the schedule puts the **local final round on February 26, 2027**, *"complete by March 1, 2027"*, with registration due *"November 17, 2026"* and kickoff **Nov 4, 2026** (already passed). **He transfers out of Montclair in January, so he cannot be a full-time Montclair student on Feb 26.** This was carried for two weeks as *"a live eligibility risk — decide deliberately"*; it is not a judgement call, it is a disqualification on the Montclair route. **The 2027–28 cycle at Rutgers is the clean shot.** Coordinator Jenisha Patil, CFA Society New York, 646-871-3432. |
 | **Rutgers Winter Career & Internship Mega Fair** | **Feb 3–5, 2027** | Rutgers students, all disciplines. 220+ employers. Handshake registration open since Oct 15. Lands in his first weeks on campus. |
 | **Appraisal Institute University Challenge 2027** | **Feb 15, 2027** | Undergraduate-ONLY, nationally open, not standing-gated. *"Each team consists of four undergraduate students and a faculty or staff advisor."* $5,000 / $3,000 / $2,000. Finals Apr 27, New Orleans. **Needs an RBS faculty advisor + 3 teammates inside his first four weeks at Rutgers.** |
 | **UChicago TBC Stock Pitch** | March 2027 (date TBA) | *"Teams of 1-3 undergraduates (cross-school teams and international students welcome)."* No faculty sponsor needed. |
@@ -134,6 +136,13 @@ related: ["[[Internship-Application-Tracker]]", "[[Consulting-Pipeline-Class-of-
 | **Nov 10, 2026** | 🆕 **Student Choice Refund set to Bank Account (Direct Deposit).** *"Refund payments will now be issued via Bank Account (Direct Deposit)."* Matters because a last-dollar scholarship refund travels this rail. | ✅ Done |
 | **Dec 2, 2026, 2:00 PM ET** | 🆕 **Financial Aid Webinar for Admitted Transfer Students.** Registered as *Joshua Bracero*, attendee ID `a8EUX0000042ITD2A2`. **The live venue for the Garden State Guarantee eligibility question and the ALPFA spring-disbursement question.** | ✅ Registered |
 | **Dec 3, 2026, 2:00 PM ET** | 🆕 **Next Steps for Admitted Transfer Students Webinar — With Deans and Advisers.** Registered, attendee ID `a8EUX0000042IRb2AM`. Ask the calculus question here if Yannuzzi has not answered by then. | ✅ Registered |
+| **Nov 18, 2026, 12:00 PM ET** | 🆕 🔴 **"Next Steps" Webinar for admitted transfer students.** **NOT REGISTERED.** Fifteen days earlier than the Dec 3 sitting he had been waiting for, and a live venue for the calculus question. | 🔴 **Register — 3 days** |
+| **Nov 24, 2026, 12–1:30 PM ET** | 🆕 **Zoom drop-in session** — *"Stop by any time during these sessions to ask a question."* Annette Madarasz, Assistant Director, Transfer Recruitment & Outreach. | ⏳ Not registered |
+| **early Dec 2026** | 🆕 ✅ **SAS Personalized Transfer Evaluation — answer received in writing.** Dean Robin Diamond, Director of the SAS Transfer Center, **Nov 10**: *"We do not yet have this information for you. You will receive your completed Personalized Transfer Evaluation, which will answer all of these questions, in early December."* The four questions it will answer: accepted credit total, which SAS requirements they satisfy, **assigned class standing at enrollment**, and where to view the official evaluation. **This is the document that settles the aid-year determination and the Spring 2027 registration plan.** | ✅ **Answered — arrives early Dec** |
+| **Dec 10, 2026, 2–3:30 PM ET** | 🆕 Zoom drop-in session | ⏳ Not registered |
+| **Dec 14, 2026, 5:00 PM ET** | 🆕 "Next Steps" Webinar, third sitting | ⏳ Not registered |
+| **Dec 15, 2026, 5:00 PM ET** | 🆕 Financial Aid Workshop, second sitting | ⏳ Not registered |
+| **Dec 21, 2026, 3–4:30 PM ET** | 🆕 Zoom drop-in session | ⏳ Not registered |
 | — | New Admissions case **#02353621** opened Nov 2 | ⏳ Awaiting reply |
 | — | Spring 2027 transfer housing inquiry to `reslife@echo.rutgers.edu` | ⏳ Awaiting reply |
 
@@ -142,7 +151,9 @@ related: ["[[Internship-Application-Tracker]]", "[[Consulting-Pipeline-Class-of-
 >
 > The question, specifically: *does placing into Calculus via the math placement exam fully satisfy the RBS gate, or is a course still expected?* The answer determines whether a math seat has to be booked in the Spring 2027 gateway semester — the semester already carrying the RBS gate GPA, the recruiting transcript, the leasing-job conflict and case prep.
 >
-> 🆕 **Her signature now carries a direct Bookings link** (*"Click to book an appointment… Book time to meet with me"*, Outlook Bookings). **Book fifteen minutes rather than sending a fourth email** — this thread has been open since Oct 29 and email has not closed it. Failing that, the **Dec 3 Next Steps webinar with deans and advisers** is a second venue.
+> 🆕 **Nov 15: there are now five venues, and the earliest is three days away.** Rutgers admissions published the full transfer event calendar on Nov 11, and it contains a **"Next Steps" webinar on Wednesday, November 18 at noon ET** — fifteen days earlier than the Dec 3 sitting this file had settled on — plus a **Nov 24 Zoom drop-in** billed as *"Stop by any time during these sessions to ask a question"*, and further sittings Dec 10, Dec 14 and Dec 21. Together with Yannuzzi's **Outlook Bookings link**, the question now has five independent routes and no reason to stay open past this week. **Register for Nov 18.**
+>
+> ⚠️ One thing the Nov 18 and Nov 24 sessions will *not* answer: the credit and class-standing arithmetic. Dean Robin Diamond confirmed in writing on **Nov 10** that those numbers arrive with the **Personalized Transfer Evaluation in early December.** The calculus question is an RBS-policy question and is answerable now; the credit question is a document that has to arrive.
 
 ---
 
@@ -190,8 +201,8 @@ related: ["[[Internship-Application-Tracker]]", "[[Consulting-Pipeline-Class-of-
 |---|---|---|
 | **ICSC** | $50/yr | 🔴 **The buy. Four weeks open.** Gates the $50 conference rate, Winter 2028 ARGUS and its grant; a full-time job closes it permanently. |
 | **CREFC** | **Free** | Highest-value free thing in CRE finance. Same full-time-employment restriction; lock in alongside ICSC. |
-| **ALPFA Premium** | $30/yr | One click from the account he holds. 🆕 **Nov 12: free ALPFA × Protiviti leadership session** — *"Join us on Nov. 12 for an interactive leadership session with Protiviti"* (mailed Nov 9 and Nov 10). Protiviti is a consulting firm, so this sits in the newly-primary lane, and ALPFA is both the body that awarded the $5,000 and the one whose portability question is unanswered. **Cheapest live consulting contact on the calendar.** |
-| **HACU Student Affiliate** | **Price unknown** | 🆕 Inquiry sent to `memberinfo@hacu.net` **Nov 6, 2026** asking the current membership rate. Awaiting reply. Separate from the HNIP internship application, which is submitted — see [[Internship-Application-Tracker]]. |
+| **ALPFA Premium** | $30/yr | One click from the account he holds. **The Nov 12 Protiviti session has happened** — ALPFA's own same-day reminder (*"Today at 1PM CT: ALPFA Connect with Protiviti"*) is in the mailbox; no registration or attendance confirmation is, so whether he went is unrecorded. La Cuenta Issue No. 108 followed Nov 13. ⚠️ **The scholarship portability question is now five weeks unanswered.** |
+| **HACU Student Affiliate** | **Price unknown** | Inquiry sent to `memberinfo@hacu.net` **Nov 6, 2026** asking the current membership rate. ⚠️ **No reply, nine days.** Separate from the HNIP internship application, which is submitted — and whose promised status flip is now **nine days overdue**; see [[Internship-Application-Tracker]]. |
 | **NSCS** | Already a member | Confirmed by the members-only Nov 2 TFAS mail. 🆕 **Nov 9: a ScholarCAST info session on the Gilman Scholarship** (study-abroad funding — off-lane for him, but it is the second dated scholarship item in eight days). **Two for two: NSCS sends real dated money and the feed is not being read.** The TFAS $1,500 came and went on a three-day fuse. |
 | **CFA Society New York** | $25/yr | **Check first** — page says *"while you are enrolled as a university student in New York"* and he is in NJ. No live standalone CFA Society New Jersey; NJ is served by CFANY's New Jersey Group. |
 | **ULI** | ~$132/yr | Optional. **ULI runs NO student chapters anywhere** — the "founding-chapter gap at Rutgers–NB" in old versions of this file was never real. |
@@ -240,14 +251,14 @@ related: ["[[Internship-Application-Tracker]]", "[[Consulting-Pipeline-Class-of-
 
 ---
 
-## Could not verify — Nov 10
+## Could not verify — Nov 15
 
-- **ICSC New York registration status** — still *"Opening Soon"*, **fourth week**. Re-verified: *"December 9-10, 2026"*, *"Jacob K. Javits Convention Center"*, student rate **$50 at Advance, Standard and On-Site**, *"Refunds will not be given for cancellations received after November 12, 2026"*, and newly readable, a **$25** student cancellation fee. 🆕 **Advance now shows *"(ends September 10, 2026)"* — closed** — while Standard and On-Site end/start dates still render blank. **The Dec 7 / Dec 8 tier dates have been dropped from both trackers as unsupported.** Practical effect: none, the student rate does not vary by tier.
+- **ICSC New York registration status** — still *"Opening Soon"*, **fifth week**, no Register button. Re-verified Nov 15: *"December 9-10, 2026"*, *"Jacob K. Javits Convention Center, 655 West 34th Street"*, student rate **$50 at Advance, Standard and On-Site**, member $875/$1,100/$1,600, non-member $2,175/$2,275/$2,500, retailer member $0. Advance *"(ends September 10, 2026)"*; Standard and On-Site dates still blank. 🆕 **Badge pickup and registration open Tuesday, December 8.** ⚠️ **The Nov 12 refund cutoff has passed** — *"Refunds will not be given for cancellations received after November 12, 2026"* — so a conference ticket bought now is non-refundable, at $50 of exposure. The dropped Dec 7 / Dec 8 tier dates stay dropped.
 - **Winter 2028 ARGUS cycle** — not published anywhere on icsc.com. Expect ~Sep 2027 if the cycle repeats. The grant is the thing to catch: **email James Dulin, `jdulin@icsc.com`**, rather than discovering the deadline after it passes, as happened this cycle.
 - **ICSC Foundation ARGUS grant, future cycles** — newest reachable PDF is itself stale (*"due November 22, 2023"*). Verbatim eligibility holds: *"You must be an ICSC Student Member in order to receive this grant"* and *"Grant awards are not automatic."*
 - **ICSC Retail Real Estate Modeling cost** — the $100 ARGUS discount it earns is published; its own price is not.
-- **Project Destined Spring 2027 — week 7.** 🆕 The newest readable posting anywhere is **Summer 2026**. No Spring 2027 cohort on Handshake, any university board, or projectdestined.com. Genuinely unresolved, and now plausibly not announced rather than merely unreadable.
-- **McKinsey Forward** — `mckinsey.org` unreachable **three weeks running.** A Fall 2026 cohort closed Oct 5, 2026. "Interest form only" remains **unverified**.
+- **Project Destined Spring 2027 — week 8, and the Nov 10 evidence was wrong.** A **Fall 2026** REPE cohort posting is readable and **closed Nov 9, 2026**; the claim that nothing newer than Summer 2026 existed anywhere does not survive. The programme is active; the Spring 2027 cohort is unannounced. **Watch from mid-December.**
+- **McKinsey Forward** — `mckinsey.org` unreachable **four weeks running.** A Fall 2026 cohort closed Oct 5, 2026. "Interest form only" remains **unverified**.
 - **TFAS regular application deadline** — only the passed Nov 5 early deadline is stated. Off-lane.
 - **HACU Student Affiliate membership rate** — inquiry sent Nov 6, no reply.
 - **Road to Consulting current cycle** — page dates are 2022. Needs the email to `rtc@rutgersconsulting.com`.
@@ -257,8 +268,10 @@ related: ["[[Internship-Application-Tracker]]", "[[Consulting-Pipeline-Class-of-
 - **REBNY student rate** — category published, price not.
 - **ICSC Rufrano Scholarship** (Rutgers-specific) — amount and deadline not published.
 - **ALPFA Deloitte scholarship portability to Rutgers** — follow-up to `bengarcia@national.alpfa.org`, cc Maria Fernandez. **Still no reply, four weeks out.** 🆕 Two things now bear on it: the Rutgers **Student Choice Refund** was set to direct deposit on **Nov 10** (the rail a last-dollar refund travels), and the **Dec 2 financial-aid webinar** is a live venue to ask.
-- **Whether the ICSC $50 and free CREFC memberships were purchased** — **no confirmation from either organization in Gmail. Sixth week this thread has been open.**
-- **HNIP Summer 2027 status flip** — the Nov 6 mail promised SUBMITTED → ELIGIBLE in *"3-4 business days."* **No status email has arrived.** It is due now. If nothing by **Nov 13**, chase it — selection is made by sponsoring agencies and *"If we do not hear from you within 48 hours, we will assume you are not interested."*
-- **The calculus question** — attended the Nov 7 session; Yannuzzi's Nov 9 note is a template blast and answers nothing. **Open since Oct 29.** Use the Bookings link in her signature.
+- **Whether the ICSC $50 and free CREFC memberships were purchased** — **no confirmation from either organisation in Gmail. Seventh week this thread has been open.**
+- 🔴 **HNIP Summer 2027 status flip — nine days overdue.** The Nov 6 mail promised SUBMITTED → ELIGIBLE in *"3-4 business days."* **No status email has arrived and the Nov 13 chase date has passed.** Selection is made by sponsoring agencies and *"If we do not hear from you within 48 hours, we will assume you are not interested"* — so a stalled status is worth an email now, not another week of waiting.
+- **The calculus question** — **open since Oct 29.** 🆕 Five venues now exist and the earliest is **Nov 18, noon ET** (see the Rutgers table). Yannuzzi's Bookings link remains the direct route.
+- 🆕 **Whether he attended the Nov 12 ALPFA × Protiviti session** — ALPFA's same-day reminder is in the mailbox; no registration or attendance record is.
+- 🆕 **Spring 2027 course planning has started outside this file.** He emailed an MGSA academic adviser on **Nov 13** about *"Intro to Filmmaking for Non-Majors (07:211:110)"* for Spring 2027 and received an auto-reply (*"Please allow 72 hours"*). Worth noting against the gateway-semester analysis: Spring 2027 already carries the RBS gate GPA, the recruiting transcript, the leasing-job conflict and case prep. **An elective outside the plan is a fifth load on the most protected semester in the file** — not an objection, but it should be a deliberate choice rather than a drift.
 - **Firm-run open virtual info sessions** — *negative finding*, unchanged: none published open-to-any-student on CBRE's, JLL's or Blackstone's own careers pages for this window. Rutgers Handshake is accessible (NetID active) and is the channel for the Greenhill/Mizuho reqs plus the **Feb 3–5 Mega Fair**.
 - **Free crypto credential** — none found, unchanged. Crypto remains the weakest-served lane.
