@@ -3,7 +3,7 @@ title: Internship Application Tracker
 type: internship-tracker
 status: active
 created: 2026-09-27
-updated: 2026-11-15
+updated: 2026-11-16
 tags: [recruiting, internships, tracker, class-of-2029]
 related: ["[[Pipeline-Programs-Class-of-2029]]", "[[Consulting-Pipeline-Class-of-2029]]", "[[Rutgers-Transfer-Plan]]"]
 ---
@@ -12,6 +12,20 @@ related: ["[[Pipeline-Programs-Class-of-2029]]", "[[Consulting-Pipeline-Class-of
 
 > [!abstract] Scope
 > **Paid internships / summer analyst seats only.** Programs, insight days, fellowships, and networking orgs live in [[Pipeline-Programs-Class-of-2029]]. Consulting-lane pipeline programs live in [[Consulting-Pipeline-Class-of-2029]]. Different calendars, different eligibility logic, different prep.
+
+> [!danger] Time-zone rule — every deadline is read in America/New_York
+> **Nov 15, 10:17 PM ET:** a reply told Josh the Evercore deadline (*"11/15/26, 11:55 PM"*) had already passed, with ~1.5 hours actually left. The cause was reading the session clock in UTC, which was already Nov 16. **Before saying "tonight", "passed" or "closed", check `TZ=America/New_York date`, and confirm against the firm's own posting plus one independent tracker.** Firm deadlines are ET unless the posting says otherwise.
+
+> [!warning] ALPFA MSU GroupMe items — eligibility checked against each source, Nov 15
+> | Item | Verbatim gate | Verdict |
+> |---|---|---|
+> | SEO Career | *"First Year, Sophomore, or Junior"* · 3.2 GPA · rolling | ✅ Eligible now. The chat warns you get one shot per email address. |
+> | Barclays "Feedback without Fear" (virtual) | Open, free · **Wed Nov 18, 6:00–7:30 PM ET** | ✅ Register on Eventbrite |
+> | MLT Career Prep 2029 | *"College sophomore graduating in Fall 2028, Spring 2029, Summer 2029"* · General **Dec 1**, Final **Jan 15, 2027** | ⏸ Only if Rutgers' written credit evaluation classifies him as a sophomore. See [[Pipeline-Programs-Class-of-2029]] |
+> | JPM Private Bank Morning@Morgan, Summit, Nov 24 | *"We invite all Sophomores"* | ⏸ Same standing question. Not today. |
+> | Bloomberg Analytics & Sales (ALPFA NJ, Nov 20, NYC) | Internship: *"completing their studies between December 2027 and September 2028"* | ❌ Band too early (he graduates Spring 2029). The chat's "Dec 2027 or later" is wrong. |
+> | Bloomberg Customer Support | *"December 2027 and May 2028 graduates"* | ❌ Band too early |
+> | WSO × ALPFA Q&A (Nov 12) | Form closed | ❌ Past |
 
 > [!danger] Jefferies allows ONE application per cycle — and Raine closes Thursday
 > **Read on Jefferies' own applicant system (`jefferies.tal.net`) for the first time, Nov 15:** *"Candidates are limited to one application per recruiting cycle."* The standing advice in this file — *"lead with Real Estate, Gaming & Lodging; Generalist second"* — **is not possible.** It is one group, one submission, no second attempt.
